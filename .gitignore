@@ -1,0 +1,16 @@
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional)
+*.xlsx
+*.xls
